@@ -36,11 +36,6 @@
 			<artifactId>json</artifactId>
 			<version>20160212</version>
 		</dependency>
-		<dependency>
-                        <groupId>org.sonatype.plexus</groupId>
-                        <artifactId>plexus-sec-dispatcher</artifactId>
-                        <version>1.4</version>
-                </dependency>
 		
 		<!-- test dependencies -->
 		<dependency>
